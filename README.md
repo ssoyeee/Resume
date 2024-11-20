@@ -33,6 +33,8 @@ Feel free to reach out to me for collaboration or opportunities:
 - **Email**: soyeon.park.dev@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/soyeon-park-dev
 
+---
+
 ## Repository Structure
 
 ```plaintext
